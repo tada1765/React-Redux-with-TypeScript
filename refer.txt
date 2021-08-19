@@ -1,0 +1,4 @@
+React Redux with TypeScript Crash Course - 2021
+--------------------------------------
+refer: https://www.youtube.com/watch?v=udr2rx_B99w&ab_channel=LaithHarb
+
